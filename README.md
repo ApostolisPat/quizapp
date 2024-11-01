@@ -101,4 +101,4 @@ The DAO (Data Access Object) layer sends queries to the database and returns res
 
 ## Credits
 
-[Video Tutorial](https://www.youtube.com/watch?v=vlz9ina4Usk)
+[Telusko](https://www.youtube.com/watch?v=vlz9ina4Usk)
