@@ -3,7 +3,7 @@
 **Programming Language:** Java  
 **Framework:** Spring Boot  
 **Database:** PostgreSQL  
-**Technologies Used:** JPA, Lombok
+**Also used:** JPA, Lombok, Maven
 
 ## Database Structure
 
